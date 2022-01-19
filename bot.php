@@ -16,7 +16,7 @@ if ($time == 32 or $time == 27 or $time == 22 or $time == 17 or $time == 12 or $
 
 if ($headers);
 $headers[] = 'Code-Version: 453216';
-$headers[] = 'Nombre-Version: 2.20.64';
+$headers[] = 'Nombre-Version: 2.22.3.5';
 $headers[] = 'Name: whatsapp';
 }
 $headers[] = 'Connection: Keep-Alive';
